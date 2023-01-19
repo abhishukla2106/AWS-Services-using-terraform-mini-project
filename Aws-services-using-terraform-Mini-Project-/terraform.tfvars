@@ -1,0 +1,16 @@
+ami1        = "ami-0b0dcb5067f052a63"
+s_Name      = "test-sg"
+port        = "80"
+port1       = "22"
+protocol1   = "tcp"
+bucket_name = "my1231654"
+tag = {
+  "name"  = "sprint"
+  "owner" = "A-3"
+}
+av-zone          = "us-east-1b"
+cidr_block       = "10.0.1.0/24"
+instance_tenancy = "default"
+av-zone2         = "us-east-1a"
+route_cidr       = "0.0.0.0/0"
+ami_name         = "Abhi-ami"
